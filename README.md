@@ -1,7 +1,8 @@
 # TBD-2-2017
+Para correr BackEnd:
+
 Correr base de datos relacional:
 - importar el archivo sql tweetgames-db.sql
-
 
 RestApi:
 - Entrar a carpeta de proyecto restApi-tweetGame
